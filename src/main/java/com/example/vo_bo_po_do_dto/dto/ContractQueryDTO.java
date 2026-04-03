@@ -18,7 +18,6 @@ import java.util.List;
 public class ContractQueryDTO {
     private Long contractId; // 仅需要合同ID，无其他字段
 
-    // getter/setter 省略
 }
 
 
